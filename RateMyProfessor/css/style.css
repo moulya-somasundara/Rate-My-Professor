@@ -1,0 +1,149 @@
+
+body{
+	
+	background: url(https://images.freecreatives.com/wp-content/uploads/2015/04/brown_wall_texture_by_fantasystock-d34un9s.jpg);
+	
+	
+}
+#login {
+	background: #e0dede;
+	width: 400px;
+	height: 300px;
+	position: absolute;
+	top: 40%;
+	left: 45%;
+	margin-left: -100px;
+	margin-top: -100px;
+	color: #333;
+	text-align: center;	
+	
+}
+
+
+h1 {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 18px;
+	text-transform: uppercase;
+	
+}
+
+#login form input {
+	width: 80%;
+	height: 25px;
+	border-radius: 10px;
+	border: 2px solid #e1e1e1;
+	margin-bottom: 10px;
+	text-indent: 10px;	
+}
+
+
+#login form button {
+	width: 80%;
+	height: 30px;
+	margin-top: 10px;
+	border-radius: 10px;
+	background: #325d92;
+	border: 2px solid #b6dffd;
+	color: black;
+	text-transform: uppercase;
+	font-size: 12px;
+}
+
+#formFooter{
+margin-top: 10px;
+}
+
+#login form button:hover {
+	text-shadow: 0px 0px 1px red;
+}
+
+#profsearch {
+	background: #e0dede;
+	width: 400px;
+	height: 300px;
+	position: absolute;
+	top: 40%;
+	left: 45%;
+	margin-left: -100px;
+	margin-top: -100px;
+	color: #333;
+	text-align: center;
+	
+	
+}
+
+#profsearch form input {
+	width: 80%;
+	height: 25px;
+	border-radius: 10px;
+	border: 2px solid #e1e1e1;
+	margin-bottom: 10px;
+	text-indent: 10px;
+	text-transform: uppercase;
+	
+}
+
+#profsearch form input[type="submit"] {
+	width: 80%;
+	height: 25px;
+	border-radius: 10px;
+	border: 2px solid #e1e1e1;
+	margin-bottom: 10px;
+	text-indent: 10px;
+	text-transform: uppercase;
+	font-family: Agency FB;
+	font-size: 19px;
+	
+}
+
+#profsearch form input[type="text"] {
+	width: 80%;
+	height: 25px;
+	border-radius: 10px;
+	border: 2px solid #e1e1e1;
+	margin-bottom: 10px;
+	text-indent: 10px;
+	text-transform: uppercase;
+	font-family: Agency FB;
+	font-size: 19px;
+	text-align: center;
+	
+}
+
+#coursework {
+	background: #e0dede;
+	width: 400px;
+	height: 300px;
+	position: absolute;
+	top: 40%;
+	left: 45%;
+	margin-left: -100px;
+	margin-top: -100px;
+	color: #333;
+	text-align: center;	
+}
+
+#coursework form input[type="submit"] {
+	width: 80%;
+	height: 25px;
+	border-radius: 10px;
+	border: 2px solid #e1e1e1;
+	margin-bottom: 10px;
+	text-indent: 10px;
+	text-transform: uppercase;
+	font-family: Agency FB;
+	font-size: 19px;
+	
+}
+
+
+a:active {
+    color: gray;
+}
+
+a:visited {
+    color:black;
+}
+
+
+a:hover {color:#0000FF;}
